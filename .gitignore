@@ -1,3 +1,7 @@
+# Cache files
+*/valid-answers*
+*/valid-guesses*
+
 # Prerequisites
 *.d
 

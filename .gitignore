@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# IDEs
+.vs
+Debug/*
+Release/*
+wordle-assistant/Debug/*
+wordle-assistant/Release/*

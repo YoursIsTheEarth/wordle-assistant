@@ -33,7 +33,9 @@
 
 # IDEs
 .vs
-Debug/*
-Release/*
-wordle-assistant/Debug/*
-wordle-assistant/Release/*
+Debug
+Release
+wordle-assistant/Debug
+wordle-assistant/Release
+wordle-assistant/valid-answers*
+wordle-assistant/valid-guesses*

@@ -1,0 +1,4 @@
+﻿  FilterParser.cpp
+C:\Users\lcroc\source\repos\wordle-assistant\wordle-assistant\FilterParser.cpp(190,24): warning C4101: 'runtimeError': unreferenced local variable
+C:\Users\lcroc\source\repos\wordle-assistant\wordle-assistant\FilterParser.cpp(238,24): warning C4101: 'runtimeError': unreferenced local variable
+  wordle-assistant.vcxproj -> C:\Users\lcroc\source\repos\wordle-assistant\Debug\wordle-assistant.exe
